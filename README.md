@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Live Demo
-**[CLICK HERE TO VIEW THE LIVE PROJECT](https://yourusername.github.io/your-repo-name/)** *(Note: Please replace the link above with your actual GitHub Pages URL after enabling it in Settings)*
+https://losabrina0825.github.io/VisualLearn-AI/
 
 ---
 
